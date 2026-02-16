@@ -972,5 +972,15 @@
       "Personal site",
       "Blog"
     ]
+  },
+  {
+    "title": "alst.ovh",
+    "url": "https://alst.ovh/",
+    "tags": [
+      "Blog",
+      "dawel",
+      "dwOS",
+      "dwKDE",
+    ]
   }
 ]
